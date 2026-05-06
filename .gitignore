@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Data (never commit raw/large data)
+data/raw/
+data/processed/
+
+# Models / checkpoints (usually large)
+models/
+checkpoints/
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Serialized objects
+*.pkl
+*.joblib
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# IDEs
+.vscode/
+.idea/
