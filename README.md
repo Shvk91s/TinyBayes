@@ -49,7 +49,7 @@ jacobi-dmr-classifier/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Shvk91s/TinyBayes.git
+git clone https://github.com/shouvik-sardar/TinyBayes.git
 cd TinyBayes
 ```
 
