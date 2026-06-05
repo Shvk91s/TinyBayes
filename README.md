@@ -143,7 +143,7 @@ To reproduce results:
 The full paper is available in:
 
 ```
-arxiv link will be shared soon. 
+arxiv link: https://arxiv.org/abs/2605.06333
 ```
 
 ---
